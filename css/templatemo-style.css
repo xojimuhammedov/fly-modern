@@ -341,7 +341,7 @@ section.banner {
 }
 
 .banner {
-  background-image: url(../img/main2.jpg);
+  background-image: url("https://zamontour.uz/assets/images/dubai2.jpg");
   width: 100%;
   height: 100%;
   background-position: center;
